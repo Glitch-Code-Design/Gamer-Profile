@@ -1,5 +1,8 @@
 # Gamer Profle
  Gamer's Profile page 
+ 
+# Copyright
+Game & App images used belong to their respective Copyright holders, Webpage created under the Creative Commons License with Atrribution given.
 
 I'm a self taught Web Designer
 
