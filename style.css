@@ -19,7 +19,7 @@
     --card-border: rgba(156, 156, 156, 0.4);
 }
 
-.wrapper {
+body {
     display: grid;
     align-items: center;
     justify-content: center;
@@ -621,11 +621,6 @@
 }
 
 @media screen and (max-width: 926px) and (orientation: landscape) {
-    body {
-        height: 100vh;
-        min-width: 100%;
-        background: radial-gradient(ellipse at bottom, var(--primary-gradient) 0%, var(--secondary-gradient) 100%);
-    }
     .card {    
         grid-template-rows: 175px 175px;
     }
