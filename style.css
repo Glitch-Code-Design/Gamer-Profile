@@ -19,6 +19,12 @@
     --card-border: rgba(156, 156, 156, 0.4);
 }
 
+body {
+    min-height: 100vh;
+    min-width: 100%;
+    background: radial-gradient(ellipse at bottom, var(--primary-gradient) 0%, var(--secondary-gradient) 100%);
+}
+
 .wrapper {
     display: grid;
     align-items: center;
@@ -26,7 +32,6 @@
     position: relative;
     height: 100vh;
     width: 100%;
-    background: radial-gradient(ellipse at bottom, var(--primary-gradient) 0%, var(--secondary-gradient) 100%);
     overflow: hidden;
     cursor: default;
     z-index: 10;
