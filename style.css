@@ -609,6 +609,9 @@
     .games-apps-container .games-container img {
         margin: .5rem;
     }
+    .stars {
+        display: none;
+    }
     .modal-btn a {
         font-size: .8rem;
     }
@@ -638,6 +641,9 @@
     }
     .card .card-container .social {
         margin-top: 1.8rem;
+    }
+    .stars {
+        display: none;
     }
     .modal-btn a {
         font-size: .8rem;
