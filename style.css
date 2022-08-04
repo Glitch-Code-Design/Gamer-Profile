@@ -29,7 +29,6 @@ body {
     background: radial-gradient(ellipse at bottom, var(--primary-gradient) 0%, var(--secondary-gradient) 100%);
     overflow: hidden;
     cursor: default;
-    z-index: 10;
 }
 
 .card {
